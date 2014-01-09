@@ -17,5 +17,6 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/cvan/iconsnaggle.git"
-  }
+  },
+  "main": "./lib/utils.js"
 }
