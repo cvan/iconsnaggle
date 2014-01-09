@@ -5,7 +5,7 @@ var restifyValidation = require('node-restify-validation');
 
 var server = restify.createServer({
     name: 'iconsnaggle',
-    version: '0.0.1'
+    version: '0.0.2'
 });
 
 server.use(restify.bodyParser());
