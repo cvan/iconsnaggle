@@ -4,6 +4,7 @@
   "dependencies": {
     "cheerio": "*",
     "imagesize": "*",
+    "lodash": "*",
     "node-restify-swagger": "*",
     "node-restify-validation": "*",
     "restify": "*",
